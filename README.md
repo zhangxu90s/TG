@@ -1,5 +1,5 @@
 # TG
-This repo contains the implementation of "Intra-Correlation Encoding for Chinese Sentence Intention Matching" in Keras & Tensorflow.
+This repo contains the implementation of "Empirical Study on Tangent Loss Function for Classification with Deep Neural Networks" in Keras & Tensorflow.
 
 # Usage for python code
 ## Requirement
